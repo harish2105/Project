@@ -1,1 +1,5 @@
-# Project
+## SOLAR BASED SMART INVERTER
+
+The main objective of this project is to create an interactive IOT-enabled smart inverter which is charged by a solar panell and can displa the existing battery voltage at any point of time. To allow the user to then decide which crucial load to run in the event of a power failure and key in his preferences onto the provided GUI as a mobile application or web page.
+
+Inverters are basically powered by gride or from the main. This smart inverter uses solar as source of energy. solar panel coverts solar energy into electricity which is utilized. the charge from the solar panel is stored in rechargeable battery by a charge controler device. since the output of battery is always a DC(Direct current) a inverter device is used to convert DC(Direct current) to AC(Alternate current) which is then given to load via replay. all actions are controlled by a arduino device. A LCD is fitted on the model to display the status of battery and load. wifi module is used to send the information about the battery status to the user interface by a mobile app called blynk. Switching of load amd monitoring can be done in a mobile application. by this way we take the whole system online through IOT.
